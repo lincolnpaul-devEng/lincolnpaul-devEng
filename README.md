@@ -1,4 +1,5 @@
-<img align="center" alt="Coding" style="{ margin: 0 auto; width: 80%; text-align: center; }" src="[https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif(https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.Oxo2PldjbTZMHD4tGD9eTwHaCq%3Fpid%3DApi&f=1&ipt=6ccef2c050408a49fbb4aef75255ebb8cabdb843a9e9c608b7f0b8f309f3c5d3&ipo=images)"> 
+<img align="center" alt="Coding" src="https://raw.githubusercontent.com/lincolnpaul-devEng/lincolnpaul-devEng/main/coding.gif" width="80%" />
+
 
 <br/>
 
