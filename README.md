@@ -1,5 +1,7 @@
-<img align="center" alt="Coding" src="https://raw.githubusercontent.com/lincolnpaul-devEng/lincolnpaul-devEng/main/coding.gif" width="80%" />
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lincolnpaul-devEng/lincolnpaul-devEng/main/coding.gif" alt="Coding" width="80%">
+</p>
 
 <br/>
 
