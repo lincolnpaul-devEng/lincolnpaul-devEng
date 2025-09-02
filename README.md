@@ -1,40 +1,42 @@
-<br clear="both">
+<img align="center" alt="Coding" style="{ margin: 0 auto; width: 80%; text-align: center; }" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"> 
 
-<h2 align="left">Hi 👋! My name is Lincoln Paul</h2>
+<br/>
 
-###
+<h3 align="center">Software Developer & Cybersecurity Enthusiast</h3>
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
+- 🔭 Currently working on projects with **Python** and **JavaScript**  
+- 🌱 Exploring **Vite** for fast frontend development  
+- 👨‍💻 Check out my work at [github.com/lincolnpaul-devEng](https://github.com/lincolnpaul-devEng)  
+- 📫 Reach me at **your-email@example.com**  
+- ⚡ Fun fact: *I write code with purpose — balancing performance, usability, and security.*  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+<h3 align="left">Languages and Tools:</h3>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,js,html,css,vite,git,github)
+
+---
+
+## 📊 GitHub Stats
+
+<div style = "{ margin: 4px }">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lincolnpaul-devEng&theme=dark&hide_border=false" alt="lincolnpaul-devEng"/>
 </div>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+<div style = "{ margin: 4px }">
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lincolnpaul-devEng&show_icons=true&locale=en&layout=compact" alt="lincolnpaul-devEng" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lincolnpaul-devEng&show_icons=true&locale=en" alt="lincolnpaul-devEng" /></p> 
 </div>
+<br/>
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lincolnpaul-devEng&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-###
+---
+
+## 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lincolnpaul-devEng&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
