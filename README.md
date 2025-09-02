@@ -4,10 +4,11 @@
 
 <h3 align="center">Software Developer & Cybersecurity Enthusiast</h3>
 
-- 🔭 Currently working on projects with **Python** and **JavaScript**  
+- 🔭 Currently working on projects with **Python** and **JavaScript**
+- 🔭 Currently studying at **Technical University of Kenya** doing **Bachelor of Computer Technical**    
 - 🌱 Exploring **Vite** for fast frontend development  
 - 👨‍💻 Check out my work at [github.com/lincolnpaul-devEng](https://github.com/lincolnpaul-devEng)  
-- 📫 Reach me at **your-email@example.com**  
+- 📫 Reach me at [paullincoln428@gmail.com]  
 - ⚡ Fun fact: *I write code with purpose — balancing performance, usability, and security.*  
 
 ---
