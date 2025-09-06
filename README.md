@@ -11,7 +11,8 @@
 - 🔭 Currently studying at **Technical University of Kenya** doing **Bachelor of Computer Technical**    
 - 🌱 Exploring **Vite** for fast frontend development  
 - 👨‍💻 Check out my work at [github.com/lincolnpaul-devEng](https://github.com/lincolnpaul-devEng)  
-- 📫 Reach me at [paullincoln428@gmail.com]  
+- 📫 Reach me at [paullincoln428@gmail.com]
+- ⚡ I offer services on fiverr for Web development, API intergration and bugfixes on [www.fiverr.com/s/Ayq6DeB]
 - ⚡ Fun fact: *I write code with purpose — balancing performance, usability, and security.*  
 
 ---
